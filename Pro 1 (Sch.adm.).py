@@ -31,6 +31,7 @@ if __name__ == '__main__':
                 student_num = stu_num + 1
             elif condition_check == "no":
                 condition = False
+                
         elif choice_check == "no":
             print("\nPlease enter the correct information")
 
